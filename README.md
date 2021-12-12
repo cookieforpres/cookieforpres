@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cookie-for-pres&label=Profile%20views&color=0e75b6&style=flat" alt="cookie-for-pres" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cookie-for-pres" alt="cookie-for-pres" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/cookiedid911" target="blank"><img src="https://img.shields.io/twitter/follow/cookiedid911?logo=twitter&style=for-the-badge" alt="cookiedid911" /></a> </p>
 
 - 🔭 I’m currently working on [Skool Portal](https://github.com/cookie-for-pres/skool-portal)
 
-- 👯 I’m looking to collaborate on **new project with new people**
+- 👯 I’m looking to collaborate on **new projects with new people**
 
 - 🤝 I’m looking for help with [Cookie AI](https://github.com/cookie-for-pres/cookie-ai)
 
@@ -24,7 +22,7 @@
 <a href="https://twitter.com/cookiedid911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cookiedid911" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16436658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16436658" height="30" width="40" /></a>
 <a href="https://instagram.com/cookie.ht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cookie.ht" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cookie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cookie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvJkMgisxwCjqhXipApFj8w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cookie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
