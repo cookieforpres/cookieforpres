@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/cookiedid911" target="blank"><img src="https://img.shields.io/twitter/follow/cookiedid911?logo=twitter&style=for-the-badge" alt="cookiedid911" /></a> </p>
 
-- 🔭 I’m currently working on [Skool Portal](https://github.com/cookie-for-pres/skool-portal)
+- 🔭 I’m currently working on [CookieLang](https://github.com/cookie-for-pres/cookielang)
 
 - 👯 I’m looking to collaborate on **new projects with new people**
 
