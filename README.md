@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm cookie</h1>
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/cookie-for-pres/cookie-for-pres/main/banner.png">
+ </p>
 <h3 align="center">A full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cookie-for-pres&label=Profile%20views&color=0e75b6&style=flat" alt="cookie-for-pres" /> </p>
