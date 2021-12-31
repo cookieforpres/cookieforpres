@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/cookiedid911" target="blank"><img src="https://img.shields.io/twitter/follow/cookiedid911?logo=twitter&style=for-the-badge" alt="cookiedid911" /></a> </p>
 
-- 🔭 I’m currently working on [CookieDB](https://github.com/cookie-for-pres/cookiedb)
+- 🔭 I’m currently working on [CookieCoin](https://github.com/cookie-for-pres/cookiecoin)
 
 - 👯 I’m looking to collaborate on **new projects with new people**
 
-- 🤝 I’m looking for help with [Cookie AI](https://github.com/cookie-for-pres/cookie-ai)
+- 🤝 I’m looking for help with [CookieDB](https://github.com/cookie-for-pres/cookiedb)
 
 - 👨‍💻 All of my projects are available at [https://github.com/cookie-for-pres](https://github.com/cookie-for-pres)
 
