@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm cookie</h1>
  <p align="center">
   <img src="https://raw.githubusercontent.com/cookie-for-pres/cookie-for-pres/main/banner.png">
+  <br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/cookiedid911.png" alt="TryHackMe">
  </p>
 <h3 align="center">A full-stack developer</h3>
 
