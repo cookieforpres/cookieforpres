@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/16436658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16436658" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17835536/muty02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16436658" height="30" width="40" /></a>
 <a href="https://instagram.com/cookie.ht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cookie.ht" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCvJkMgisxwCjqhXipApFj8w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cookie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCELZc1IFiR1LuGdEh62S4hw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cookie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
