@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [CookieDB](https://github.com/cookie-for-pres/cookiedb)
 
-- 👨‍💻 All of my projects are available at [https://github.com/cookie-for-pres](https://github.com/cookie-for-pres)
+- 👨‍💻 All of my projects are available at [here](https://github.com/cookie-for-pres)
 
 - 💬 Ask me about **react, nodejs, python, golang, and any other developer questions**
 
