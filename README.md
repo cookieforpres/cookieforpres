@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/cookiedid911" target="blank"><img src="https://img.shields.io/twitter/follow/cookiedid911?logo=twitter&style=for-the-badge" alt="cookiedid911" /></a> </p>
 
-- 🔭 I’m currently working on [CookieCoin](https://github.com/cookie-for-pres/cookiecoin)
+- 🔭 I’m currently working on [Cookie's HTTP Client](https://github.com/cookie-for-pres/chc)
 
 - 👯 I’m looking to collaborate on **new projects with new people**
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cookie-for-pres](https://github.com/cookie-for-pres)
 
-- 💬 Ask me about **react, nodejs, python, and any other developer questions**
+- 💬 Ask me about **react, nodejs, python, golang, and any other developer questions**
 
 - ⚡ Fun fact **im a cool kid**
 
