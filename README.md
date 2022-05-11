@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cookie-for-pres&label=Profile%20views&color=0e75b6&style=flat" alt="cookie-for-pres" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cookiedid911" target="blank"><img src="https://img.shields.io/twitter/follow/cookiedid911?logo=twitter&style=for-the-badge" alt="cookiedid911" /></a> </p>
-
 - 🔭 I’m currently working on [Cookie's HTTP Client](https://github.com/cookie-for-pres/chc)
 
 - 👯 I’m looking to collaborate on **new projects with new people**
