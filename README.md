@@ -30,6 +30,6 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookie-for-pres&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookieforpres&layout=compact)
 <br/>
-![Stats](https://github-readme-stats.vercel.app/api?username=cookie-for-pres&show_icons=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=cookieforpres&show_icons=true&count_private=true)
