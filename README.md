@@ -25,6 +25,9 @@
 
 <br/>
 
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookieforpres&layout=compact&theme=dark)
 <br/>
 ![Stats](https://github-readme-stats.vercel.app/api?username=cookieforpres&show_icons=true&count_private=true&theme=dark)
+-->
+
